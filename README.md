@@ -1,26 +1,45 @@
-# 👋 Welcome to Ninja City
+# 👋 Welcome to A Product
 
 {% hint style="info" %}
-**Note:** Ninja City represents a dynamic and continually evolving project. Our dedicated team is passionately committed to its ongoing development, consistently working to enhance its features, improve user experience, and expand the possibilities within the platform. Each phase of this journey unfolds with an unwavering focus on innovation, creativity, and the anticipation of user needs. The path ahead for Ninja City is exciting, filled with constant growth and continuous refinement. Stay tuned as we shape the future of this extraordinary digital landscape.
+**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
 {% endhint %}
 
 ## Overview
 
-Welcome to the world of **Ninja City**, an innovative digital collectible game that leverages the security and transparency of the Bitcoin Ordinals system to bring you a captivating gaming experience like no other.
+Here are a couple of example overviews from products with really great docs:
 
-1. **Digital Collectibles:** In Ninja City, players collect and trade unique digital assets - think of them as your virtual army of ninjas. Each collectible is verifiable and unique, assured by the robustness of the Bitcoin Ordinals system.
-2. **Clashing Factions:** The game is set in a vibrant world divided into two factions. Each faction has its unique strengths, strategies, and aesthetics. The thrill of Ninja City lies in the eternal clash between these factions, where strategy, luck, and your collection determine the outcome.
-3. **The HIYA Token:** The primary in-game currency is HIYA, a BRC-20 token. Players can earn HIYA through gameplay, trade it for collectibles, or use it to influence the ongoing saga of Ninja City. HIYA isn't just a token - it's the lifeblood of the game, powering the economy and driving the narrative.
-4. **Gameplay:** The gameplay of Ninja City is a blend of strategy, collection, and social interaction. It's about making tactical decisions, optimizing your collection, and outsmarting your opponents. And all of this takes place in a vibrant, evolving world that's shaped by the actions of its players.
+> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+>
+> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+>
+> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
-Join us in Ninja City, where your strategy, your collectibles, and your decisions can make you a legend.
+> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
+>
+> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
 ## Quick links
 
-{% content-ref url="overview/ninjas.md" %}
-[ninjas.md](overview/ninjas.md)
+{% content-ref url="overview/what-we-do.md" %}
+[what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/weapons.md" %}
-[weapons.md](overview/weapons.md)
+{% content-ref url="overview/our-features.md" %}
+[our-features.md](overview/our-features.md)
+{% endcontent-ref %}
+
+## Get Started
+
+We've put together some helpful guides for you to get setup with our product quickly and easily.
+
+{% content-ref url="fundamentals/getting-set-up/" %}
+[getting-set-up](fundamentals/getting-set-up/)
+{% endcontent-ref %}
+
+{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% endcontent-ref %}
+
+{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
+[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
 {% endcontent-ref %}
