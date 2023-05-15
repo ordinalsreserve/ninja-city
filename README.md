@@ -1,45 +1,26 @@
-# 👋 Welcome to A Product
-
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# 👋 Welcome to Ninja City
 
 ## Overview
 
-Here are a couple of example overviews from products with really great docs:
+Welcome to the world of **Ninja City**, an innovative digital collectible game that leverages the security and transparency of the Bitcoin Ordinals system to bring you a captivating gaming experience like no other.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+1. **Digital Collectibles:** In Ninja City, players collect and trade unique digital assets - think of them as your virtual army of ninjas. Each collectible is verifiable and unique, assured by the robustness of the Bitcoin Ordinals system.
+2. **Clashing Factions:** The game is set in a vibrant world divided into two factions. Each faction has its unique strengths, strategies, and aesthetics. The thrill of Ninja City lies in the eternal clash between these factions, where strategy, luck, and your collection determine the outcome.
+3. **The HIYA Token:** The primary in-game currency is HIYA, a BRC-20 token. Players can earn HIYA through gameplay, trade it for collectibles, or use it to influence the ongoing saga of Ninja City. HIYA isn't just a token - it's the lifeblood of the game, powering the economy and driving the narrative.
+4. **Gameplay:** The gameplay of Ninja City is a blend of strategy, collection, and social interaction. It's about making tactical decisions, optimizing your collection, and outsmarting your opponents. And all of this takes place in a vibrant, evolving world that's shaped by the actions of its players.
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+Join us in Ninja City, where your strategy, your collectibles, and your decisions can make you a legend.
+
+{% hint style="info" %}
+**Disclaimer**: Ninja City is a game, not an investment platform. In-game items, including the HIYA token, have no real-world value and should not be considered as financial assets. Participation should be for entertainment purposes only, not with the expectation of monetary gain.
+{% endhint %}
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/ninjas.md" %}
+[ninjas.md](overview/ninjas.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="overview/weapons.md" %}
+[weapons.md](overview/weapons.md)
 {% endcontent-ref %}

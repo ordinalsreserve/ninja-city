@@ -50,9 +50,3 @@ eeb42ff961cd11c2150b6b1f079200dc94b8e6a89a2a8f2d7af087a6e72c3943i0
 2e9a85539e02ff781c84e8ac86ac1b90fda131bddb8edb6e4a3616776e0aabafi0
 3ee71afaebbb9684a96f6b5ced3354b16a239af3c2e24afc12452e01433da984i0
 ```
-
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
