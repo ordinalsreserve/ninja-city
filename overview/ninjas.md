@@ -1,5 +1,9 @@
 # 🥷 Ninjas
 
+{% embed url="https://ordinalsreserve.com/collections/c011ec687f2ef5f07c4053baff67ca75d9ce561dav1fed1d719ef433c8de0866" %}
+Ordinals Reserve Collection
+{% endembed %}
+
 ```
 67b27e2d15cd3fc44dbdd4069cd3ac1be5cdd16c1a03c1fce79918c6c9b9c9bdi0
 c4f7f376877c999a13b76a928e0bbfd8d9719e505dba6bea52a31a3789fa2da4i0
